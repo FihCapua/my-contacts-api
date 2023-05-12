@@ -1,4 +1,4 @@
-<h4 align="center">
+<h3 align="center">
   🚀 API desenvolvida p/ gerenciamento de contatos
 </h4>
 
@@ -6,7 +6,9 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <img align="left" alt="Javascript" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />NodeJs
+
 - <img align="left" alt="Postgres" width="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />Postgres
+
 - <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />Docker
 
 ## 💻 Projeto
