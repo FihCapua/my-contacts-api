@@ -34,6 +34,8 @@ cp .env.example .env
 ```
 
 **🎲 Prepare o Banco de Dados**
+<br />
+
 Instale o PostgresSQL e defina as variáveis de ambiente baseadas no exemplo acima para se conectar ao banco de dados, ou você pode utilizar o Docker a partir desses comandos:
 ```bash
 
